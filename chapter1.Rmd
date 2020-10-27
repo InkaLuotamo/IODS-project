@@ -9,5 +9,16 @@
 date()
 
 ```
-The text continues here.
+# My First assignment in coding **ever**
+
+I have participated on this cource to get a basic understanding of analyzing data and learn how to use 
+
+- **R**
+
+- **Rstudio**
+
+- **git**
+
+Feeling quite overwhlemed at the moment, since I am a *complete beginner* but **I will not give up, not yet!**
+My assignments on this cource are saved and can be found in my Github repository [here](https://github.com/InkaLuotamo/IODS-project.git)
 
